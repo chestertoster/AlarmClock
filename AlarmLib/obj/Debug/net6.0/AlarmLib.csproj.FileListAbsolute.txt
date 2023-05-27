@@ -1,0 +1,24 @@
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\AlarmLib\bin\Debug\net6.0\AlarmLib.deps.json
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\AlarmLib\bin\Debug\net6.0\AlarmLib.dll
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\AlarmLib\bin\Debug\net6.0\AlarmLib.pdb
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\AlarmLib\obj\Debug\net6.0\AlarmLib.csproj.AssemblyReference.cache
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\AlarmLib\obj\Debug\net6.0\AlarmLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\AlarmLib\obj\Debug\net6.0\AlarmLib.AssemblyInfoInputs.cache
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\AlarmLib\obj\Debug\net6.0\AlarmLib.AssemblyInfo.cs
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\AlarmLib\obj\Debug\net6.0\AlarmLib.csproj.CoreCompileInputs.cache
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\AlarmLib\obj\Debug\net6.0\AlarmLib.dll
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\AlarmLib\obj\Debug\net6.0\refint\AlarmLib.dll
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\AlarmLib\obj\Debug\net6.0\AlarmLib.pdb
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\AlarmLib\obj\Debug\net6.0\ref\AlarmLib.dll
+C:\Users\Admin\Desktop\AlarmClock\AlarmLib\bin\Debug\net6.0\AlarmLib.deps.json
+C:\Users\Admin\Desktop\AlarmClock\AlarmLib\bin\Debug\net6.0\AlarmLib.dll
+C:\Users\Admin\Desktop\AlarmClock\AlarmLib\bin\Debug\net6.0\AlarmLib.pdb
+C:\Users\Admin\Desktop\AlarmClock\AlarmLib\obj\Debug\net6.0\AlarmLib.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AlarmClock\AlarmLib\obj\Debug\net6.0\AlarmLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\AlarmClock\AlarmLib\obj\Debug\net6.0\AlarmLib.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\AlarmClock\AlarmLib\obj\Debug\net6.0\AlarmLib.AssemblyInfo.cs
+C:\Users\Admin\Desktop\AlarmClock\AlarmLib\obj\Debug\net6.0\AlarmLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AlarmClock\AlarmLib\obj\Debug\net6.0\AlarmLib.dll
+C:\Users\Admin\Desktop\AlarmClock\AlarmLib\obj\Debug\net6.0\refint\AlarmLib.dll
+C:\Users\Admin\Desktop\AlarmClock\AlarmLib\obj\Debug\net6.0\AlarmLib.pdb
+C:\Users\Admin\Desktop\AlarmClock\AlarmLib\obj\Debug\net6.0\ref\AlarmLib.dll

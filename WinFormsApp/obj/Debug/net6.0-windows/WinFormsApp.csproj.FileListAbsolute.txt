@@ -1,0 +1,54 @@
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.exe
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.deps.json
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.runtimeconfig.json
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.dll
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.pdb
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.Main.resources
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.GenerateResource.cache
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.AssemblyInfo.cs
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.dll
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\refint\WinFormsApp.dll
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.pdb
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.genruntimeconfig.cache
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\ref\WinFormsApp.dll
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\AlarmLib.dll
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\AlarmLib.pdb
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.CopyComplete
+D:\Программирование\Работы для кого-то\Димас\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.AdditionalForm.resources
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.exe
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.deps.json
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.dll
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.pdb
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\AlarmLib.dll
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\bin\Debug\net6.0-windows\AlarmLib.pdb
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.AdditionalForm.resources
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.Main.resources
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.CopyComplete
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.dll
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\refint\WinFormsApp.dll
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.pdb
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\AlarmClock\WinFormsApp\obj\Debug\net6.0-windows\ref\WinFormsApp.dll
